@@ -1,4 +1,4 @@
-# cicd-lists-build
+# cicd-lists-poc
 
 CI/CD pipeline for managing XSOAR/XSIAM lists via Git.
 
