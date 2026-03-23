@@ -9,3 +9,4 @@ IP,Comment
 192.0.2.0/24,IPv4 TEST-NET-1 (documentation)
 198.51.100.0/24,IPv4 TEST-NET-2 (documentation)
 203.0.113.0/24,IPv4 TEST-NET-3 (documentation)
+1.1.1.1/32,Cloudflare Quad One
