@@ -1,0 +1,11 @@
+IP,Comment
+127.0.0.1,IPv4 loopback
+::1,IPv6 loopback
+10.0.0.0/8,Private IPv4 LAN range
+172.16.0.0/12,Private IPv4 LAN range
+192.168.0.0/16,Private IPv4 LAN range
+100.64.0.0/10,Carrier-grade NAT
+169.254.0.0/16,IPv4 link-local (APIPA)
+192.0.2.0/24,IPv4 TEST-NET-1 (documentation)
+198.51.100.0/24,IPv4 TEST-NET-2 (documentation)
+203.0.113.0/24,IPv4 TEST-NET-3 (documentation)
