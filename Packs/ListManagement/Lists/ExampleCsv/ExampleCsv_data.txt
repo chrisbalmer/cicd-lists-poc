@@ -11,3 +11,4 @@ IP,Comment
 203.0.113.0/24,IPv4 TEST-NET-3 (documentation)
 1.1.1.1/32,Cloudflare Quad One
 1.0.0.3/32,Cloudflare Family DNS
+1.1.1.3/32,Cloudflare Family DNS 2
